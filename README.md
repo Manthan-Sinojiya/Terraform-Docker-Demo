@@ -34,6 +34,9 @@ terraform destroy
 - `README.md` – How to run the project
 
 ## 📷 Screenshot (Example)
+<img width="2153" height="1314" alt="image" src="https://github.com/user-attachments/assets/ad760eb1-0e8e-4545-99d4-cc5d49a5a9c4" />
+
+
 You should see the nginx welcome page at http://localhost:8080
 
 ## 🔗 References
